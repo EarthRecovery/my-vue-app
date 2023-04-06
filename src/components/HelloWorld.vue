@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <p>
-      Klein Kaslana
+      zhhsdsb
     </p>
   </div>
 </template>
@@ -19,6 +19,9 @@ export default {
 <style scoped>
 h3 {
   margin: 40px 0 0;
+}
+.hello{
+  font-size:100;
 }
 ul {
   list-style-type: none;
